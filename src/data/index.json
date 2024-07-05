@@ -1,0 +1,80 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/html.png",
+        "title": "Html",
+        "description": "HTML (HyperText Markup Language) forms the structural foundation of web pages. My expertise includes creating well-organized, semantic, and accessible content, ensuring a solid base for any web project. I effectively use HTML5 elements to optimize user experience and search engine visibility."
+      },
+
+      {
+        "id": "2",
+        "src": "./img/CSS-logo.png",
+        "title": "css",
+        "description": "CSS (Cascading Style Sheets) enhances the visual appeal of web pages. I specialize in designing responsive, mobile-first layouts using Flexbox and Grid, as well as adding animations and transitions for a dynamic user experience. My CSS code is efficient and maintainable, often leveraging pre-processors like SASS."
+      },
+      {
+        "id": "3",
+        "src": "./img/js.png",
+        "title": "javascript" ,
+        "description": "JavaScript adds interactivity and dynamic functionality to web pages. I excel in manipulating the DOM, utilizing modern ES6+ features, and implementing asynchronous data fetching with AJAX and Fetch API. My experience extends to using frameworks and libraries to build robust and efficient web applications."
+      },
+      {
+        "id": "4",
+        "src": "./img/react.png",
+        "title": "React",
+        "description": "I have extensive experience using React to build modern, efficient, and scalable web applications. My proficiency includes working with hooks, state management, and integrating third-party libraries to enhance functionality. I’ve developed several projects that demonstrate my ability to create responsive and user-friendly interfaces."
+      },
+
+      {
+        "id": "5",
+        "src": "./img/sql.png",
+        "title": "SQL",
+        "description": "My skills in SQL encompass designing, querying, and managing relational databases. I am proficient in writing complex queries to retrieve and manipulate data, ensuring data integrity, and optimizing database performance."
+      },
+
+      {
+        "id": "6",
+        "src": "./img/code.png",
+        "title": "c++,c,python",
+        "description": " Strong grasp of object-oriented programming, memory management, and performance optimization. I have developed various applications, including game development and system-level programs."
+      },
+      {
+        "id": "7",
+        "src": "./img/DSA.png",
+        "title": "DataStructures and Algorithms" ,
+        "description": "I have a thorough understanding of data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables. My algorithmic skills include sorting, searching, dynamic programming, and graph traversal techniques."
+      },
+      {
+        "id": "8",
+        "src": "./img/dbms.png",
+        "title": "DBMS,OS,CN",
+        "description": "Skilled in database design, normalization, SQL queries, and transaction management, with experience in both relational and NoSQL databases.Understanding of process and memory management, file systems, and concurrency on Windows and Unix/Linux systems."
+      }
+    ],
+    
+    "projects": [
+      {
+        "id": "1",
+        "src": "./img/Weather App.png",
+        "title": "Weather App",
+        "description": "Built a website called weather app using HTML, CSS, and JavaScript. Weather data is retrieved from the weather API, and the Weather App displays the information to the user. This can include the current weather conditions , temperature,wind speed, and any additional details like humidity or precipitation chances.The Weather App allows users to input their desired location or search for a specific city.",
+      
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "./img/CandyCrush.png",
+        "title": "Candy Crush Game",
+        "description": "Developed a Candy Crush game using HTML, CSS, and JavaScript.Designed a logic to crush candies when you find all three candies are the same in a row or in a column,for each crush score increases by 30 points. The game keeps track of the player's score.Set up an audio file of Candy Crush that is auto-playing and plays in a loop. Used DataStructures and algorithms to build the game.",
+        "link": "View In Github"
+      },
+      {
+        "id": "3",
+        "src": "./img/amazoneclone.png",
+        "title": "Amazon Clone",
+        "description": "Bulit a clone of amazon.com using HTML, and CSS.Organized elements such as headers, footers, navigation menus, and product listings using HTML tags and replicated the visual design of Amazon by using CSS to style HTML elements.Explored techniques for styling typography, colors, backgrounds, borders,and layouts to achieve a similar look and feel to the original site",
+        "link": "View In Github"
+      }
+    ]
+}
